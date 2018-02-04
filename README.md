@@ -1,1 +1,1 @@
-# typescript-server
+# Server built with Node and TypeScript
