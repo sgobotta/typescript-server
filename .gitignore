@@ -1,0 +1,11 @@
+# dependencies
+/node_modules
+
+# compiled output
+/client
+/dist
+.nyc_output
+/coverage
+
+# misc
+*.log

@@ -1,0 +1,20 @@
+[
+  {
+    "email": "sgobotta@gmail.com",
+    "password": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.InNhbHNhY3Jpb2xsYSI.GYTve0fplJmUTXPIrwlh-iz-It1s38LQNzQk9ezzoYg",
+    "session": {
+      "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.InNnb2JvdHRhQGdtYWlsLmNvbSI.T05bPgRvjyGtF6QVjzLmk59hb0vAl-mPIhHokgR1aIk",
+      "expireDate": "Mon Dec 18 2017 18:34:05 GMT-0300"
+    },
+    "roles": [ "customer" ]
+  },
+  {
+    "email": "bottalisandro94@gmail.com",
+    "password": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.InNhbHNhY3Jpb2xsYSI.GYTve0fplJmUTXPIrwlh-iz-It1s38LQNzQk9ezzoYg",
+    "session": {
+      "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.ImJvdHRhbGlzYW5kcm85NEBnbWFpbC5jb20i.ZHdQWgf7rCA8yHmeF7ZxKFhXFjyNfONOXNiqw5jK5Sc",
+      "expireDate": "Mon Dec 18 2017 18:34:05 GMT-0300"
+    },
+    "roles": [ "customer" ]
+  }
+]
